@@ -25,6 +25,8 @@
   ## Usage
   Allows users to take notes and store them. User can find the app on [github](https://github.com/coclay1/11-Notepad) or on [heroku](https://dashboard.heroku.com/apps/calm-bayou-38695)
 
+  [Video Demo](./Untitled_%20Apr%2020%2C%202023%2011_09%20PM.webm)
+
   ## Contributors
   [shields.io](https://shields.io/)
   
